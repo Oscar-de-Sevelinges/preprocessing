@@ -1,0 +1,275 @@
+﻿  preprocessing.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(207,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(207,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(208,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(208,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(208,51): error C2664: 'void setto(char *)' : impossible de convertir l'argument 1 de 'const char [3]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(208,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(170,13): message : voir la déclaration de 'setto'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(211,8): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(211,14): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(213,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(213,19): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(213,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(213,39): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(216,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(216,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(216,52): error C2664: 'void setto(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(216,41): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(170,13): message : voir la déclaration de 'setto'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(217,20): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(217,26): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(217,56): error C2664: 'void setto(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(217,45): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(170,13): message : voir la déclaration de 'setto'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(218,24): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(218,30): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(218,60): error C2664: 'void setto(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(218,49): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(170,13): message : voir la déclaration de 'setto'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(226,69): error C2664: 'void setto(char *)' : impossible de convertir l'argument 1 de 'const char [3]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(226,60): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(170,13): message : voir la déclaration de 'setto'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(232,27): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [3]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(232,33): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(242,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [9]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(242,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(242,57): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(242,46): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(243,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [8]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(243,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(243,55): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(243,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(245,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(245,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(245,55): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(245,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(246,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(246,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(246,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(246,41): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(248,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(248,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(248,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(248,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(250,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(250,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(250,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(250,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(255,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(255,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(255,51): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(255,41): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(256,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(256,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(256,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(256,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(257,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(257,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(257,49): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [3]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(257,40): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(258,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(258,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(258,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(258,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(260,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [9]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(260,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(260,57): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(260,46): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(261,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(261,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(261,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(261,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(262,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(262,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(262,52): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(262,41): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(264,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(264,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(264,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(264,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(265,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [9]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(265,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(265,55): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(265,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(266,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [9]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(266,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(266,55): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(266,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(267,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [9]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(267,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(267,55): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(267,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(269,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(269,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(269,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(269,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(270,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(270,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(270,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(270,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(271,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [8]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(271,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(271,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(271,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(273,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(273,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(273,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(273,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(285,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(285,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(285,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(285,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(286,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(286,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(286,50): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [2]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(286,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(287,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(287,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(287,52): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(287,42): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(289,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(289,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(289,54): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(289,44): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(291,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(291,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(291,53): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(291,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(292,16): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(292,22): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(292,48): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [2]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(292,40): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(294,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(294,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(294,51): error C2664: 'void r(char *)' : impossible de convertir l'argument 1 de 'const char [2]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(294,43): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(179,13): message : voir la déclaration de 'r'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(305,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(305,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(306,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(306,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(307,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(307,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(308,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(308,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(309,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(309,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(310,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(310,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(311,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(311,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(312,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(312,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(313,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [7]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(313,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(314,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [6]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(314,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(315,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(315,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(316,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(316,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(317,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [4]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(317,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(319,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(319,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(320,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(320,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(321,12): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(321,18): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(322,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(322,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(323,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(323,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(324,18): error C2664: 'int ends(char *)' : impossible de convertir l'argument 1 de 'const char [5]' en 'char *'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(324,24): message : La conversion d'un littéral de chaîne perd le qualificateur const (voir /Zc:strictStrings)
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(157,12): message : voir la déclaration de 'ends'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(426,19): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(521,35): warning C4477: 'fprintf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'std::string'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(520,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(526,5): error C2731: 'main' : impossible de surcharger la fonction
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(526): message : voir la déclaration de 'main'
+C:\Users\oscar\OneDrive\Bureau\preprocessing - Copie\preprocessing.cpp(549,7): error C3083: 'filesystem' : le symbole situé à gauche de '::' doit être un type
